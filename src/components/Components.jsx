@@ -66,7 +66,7 @@ import Careers from './Pages/Careers';
 class Components extends React.Component {
     render() {
         return (
-            <BrowserRouter basename="/AzimFacilities/">
+            <BrowserRouter basename="/AzimGroup/">
                 <ScrollToTop />
                 <div className="page-wraper">
                         <Routes>
